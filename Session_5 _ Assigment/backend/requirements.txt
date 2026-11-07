@@ -1,0 +1,6 @@
+web3
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+python-dotenv

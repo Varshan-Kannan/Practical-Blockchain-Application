@@ -1,0 +1,4 @@
+web3
+python-dotenv
+fastapi
+uvicorn[standard]
